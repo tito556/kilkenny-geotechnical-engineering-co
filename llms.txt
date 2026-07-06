@@ -1,0 +1,42 @@
+# Geotechnical Engineering — Kilkenny
+
+> Geotechnical engineering services in Kilkenny, Ireland.
+
+## Services
+- [Anchors](https://kilkenny.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://kilkenny.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://kilkenny.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://kilkenny.geotechnical-engineering.co/cpt-test/)
+- [Excavations](https://kilkenny.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://kilkenny.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://kilkenny.geotechnical-engineering.co/footings/)
+- [Foundations](https://kilkenny.geotechnical-engineering.co/foundations/)
+- [Geophysics](https://kilkenny.geotechnical-engineering.co/geophysics/)
+- [Ground Improvement](https://kilkenny.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://kilkenny.geotechnical-engineering.co/grouting/)
+- [Investigation](https://kilkenny.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://kilkenny.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://kilkenny.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://kilkenny.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://kilkenny.geotechnical-engineering.co/masw/)
+- [Plate Load Test](https://kilkenny.geotechnical-engineering.co/plate-load-test/)
+- [Resistivity](https://kilkenny.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://kilkenny.geotechnical-engineering.co/retaining-walls/)
+- [Road Geotechnics](https://kilkenny.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://kilkenny.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://kilkenny.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://kilkenny.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Refraction](https://kilkenny.geotechnical-engineering.co/seismic-refraction/)
+- [Slopes](https://kilkenny.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://kilkenny.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Stone Columns](https://kilkenny.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://kilkenny.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://kilkenny.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://kilkenny.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://kilkenny.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Kilkenny, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
